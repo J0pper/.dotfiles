@@ -25,10 +25,10 @@ zstyle ':completion:*' menu select
 # export PATH="$PATH:$HOME/.config/composer/vendor/bin"
 
 # ZSH autosuggestions
-source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+# source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 # ZSH syntax highlighting
-source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+# source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # Starship
 eval "$(starship init zsh)"
