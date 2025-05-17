@@ -1,0 +1,3 @@
+[submodule ".config/hypr/assets/walls-catppuccin-mocha"]
+	path = .config/hypr/assets/walls-catppuccin-mocha
+	url = https://github.com/orangci/walls-catppuccin-mocha.git
