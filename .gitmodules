@@ -1,9 +1,6 @@
 [submodule ".config/hypr/assets/walls-catppuccin-mocha"]
 	path = .config/hypr/assets/walls-catppuccin-mocha
 	url = https://github.com/orangci/walls-catppuccin-mocha.git
-[submodule ".config/.config/nvim"]
-	path = .config/.config/nvim
-	url = git@github.com:J0pper/nvim.git
 [submodule ".config/nvim"]
 	path = .config/nvim
 	url = git@github.com:J0pper/nvim.git
