@@ -30,5 +30,7 @@ zstyle ':completion:*' menu select
 # ZSH syntax highlighting
 # source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
+export NIX_SHELL_PRESERVE_PROMPT=1
+
 # Starship
 eval "$(starship init zsh)"
